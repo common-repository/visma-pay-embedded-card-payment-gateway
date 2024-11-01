@@ -1,0 +1,7 @@
+<wpml-config>
+	<admin-texts>
+		<key name="woocommerce_visma_pay_embedded_card_settings">
+			<key name="title" />
+		</key>
+	</admin-texts> 
+</wpml-config>
